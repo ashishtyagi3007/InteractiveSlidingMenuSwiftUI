@@ -1,3 +1,3 @@
 # InteractiveSlidingMenuSwiftUI
 
-cc @TheAppWizard
+code credits @TheAppWizard and @KaziMunshimun
