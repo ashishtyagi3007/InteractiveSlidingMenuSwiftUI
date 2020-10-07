@@ -13,18 +13,10 @@ struct MarvelsCollection: Identifiable {
     let image: String
 }
 
-struct MarvelUniverse : View {
-    var body: some View{
-        VStack{
-            Text("MARVELS")
-        }
-    }
-}
-
 struct Avengers  : View {
     var body: some View{
         VStack{
-            Text("Avengers Team")
+            Text("Coming Soon")
         }
     }
 }
